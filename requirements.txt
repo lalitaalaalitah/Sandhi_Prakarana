@@ -1,5 +1,5 @@
 indic-transliteration==1.8.9
-Keras==2.2.5
+Keras==3.15.0
 Keras-Applications==1.0.8
 keras-contrib==2.0.8
 Keras-Preprocessing==1.1.0
